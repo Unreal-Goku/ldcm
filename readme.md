@@ -1,6 +1,8 @@
 # LDCM: Large Depth Completion Model from Sparse Observations
 
-![teaser](assets/teaser.png)
+<p align="center">
+  <img src="assets/teaser.webp" width="400">
+</p>
 
 ## 📝 Introduction
 **LDCM** is a high-performance depth completion framework. It effectively reconstructs high-fidelity **dense metric depth maps** from a single RGB image and sparse depth measurements.
